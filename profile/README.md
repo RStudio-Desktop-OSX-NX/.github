@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/5b80a5b1-e68f-416b-a7fd-a1ba33218d08/1171237043/rstudio-desktop-RStudio%20Desktop-2.jpg" width="824" alt="Interface"/>
+<img src="https://www.easeus.com/images/en/screenshot/data-recovery-mac/r-studio-for-mac.png" width="824" alt="Interface"/>
 
 </div>
 
